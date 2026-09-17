@@ -553,7 +553,7 @@ It operates under the Ministry of Education's Innovation Cell (MIC) to foster a 
     </div>
 
     <a
-      href="YOUR_UNSTOP_LINK_HERE"
+      href="#"
       target="_blank"
       rel="noopener noreferrer"
       className="unstop-button"
