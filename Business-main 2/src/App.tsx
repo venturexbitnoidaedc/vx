@@ -520,6 +520,55 @@ It operates under the Ministry of Education's Innovation Cell (MIC) to foster a 
 </section>
 
 
+        {/* UNSTOP REGISTRATION BANNER */}
+<section className="unstop-banner">
+  <div className="unstop-banner-inner">
+
+    <div className="unstop-logo-wrap">
+      <img
+        src={unstopLogo}
+        alt="Unstop"
+      />
+    </div>
+
+    <div className="unstop-content">
+      <span className="unstop-label">
+        WE'RE LIVE ON UNSTOP
+      </span>
+
+      <h3>
+        Ready to pitch your sustainable venture?
+      </h3>
+
+      <p>
+        Register directly through Unstop and compete for a
+        prize pool of ₹63,000+.
+      </p>
+
+      <p className="unstop-subtext">
+        <strong>Seamless Registration:</strong> Jump straight to our
+        official Unstop listing to view the rulebook, timeline,
+        and registration perks.
+      </p>
+    </div>
+
+    <a
+      href="YOUR_UNSTOP_LINK_HERE"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="unstop-button"
+    >
+      Register on Unstop
+      <MoveUpRight size={16} />
+    </a>
+
+  </div>
+</section>
+
+{/* COMPETITION FLOW */}
+<section id="flow" className="competition-flow section-pad">
+
+
 
         {/* COMPETITION FLOW */}
 <section id="flow" className="competition-flow section-pad">
