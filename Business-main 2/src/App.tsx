@@ -2,6 +2,7 @@
 import { useEffect, useState, type ReactNode } from 'react';
 import ventureLogo from '../bit-mesra-logo.jpg';
 import ventureXLogo from '../image (2).png';
+import unstopLogo from '../unstop-logo.png';
 import {
   ArrowDownRight, ArrowRight, Award, BarChart3, CalendarDays, Check,
   ChevronDown, Clock3, ExternalLink, Facebook, Globe2, Instagram, Lightbulb,
