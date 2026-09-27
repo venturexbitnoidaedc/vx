@@ -792,7 +792,7 @@ It operates under the Ministry of Education's Innovation Cell (MIC) to foster a 
   <br />
   PRATHAM JAIN • VIVEK KUMAR
   <br />
-  ATHARVA SINHA • ANKUSH KUMAR
+  ANKUSH KUMAR
 </h3>
     <p>Venture X 2026</p>
   </div>
