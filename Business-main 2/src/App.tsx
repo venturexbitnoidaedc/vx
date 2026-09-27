@@ -565,8 +565,7 @@ It operates under the Ministry of Education's Innovation Cell (MIC) to foster a 
   </div>
 </section>
 
-{/* COMPETITION FLOW */}
-<section id="flow" className="competition-flow section-pad">
+
 
 
 
